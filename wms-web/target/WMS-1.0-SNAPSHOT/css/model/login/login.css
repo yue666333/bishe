@@ -1,0 +1,8 @@
+body {
+	margin-top:150px;
+	background-color: #e5e5e5;
+}
+
+#checkCodeImg:hover{
+	cursor: pointer;
+}
